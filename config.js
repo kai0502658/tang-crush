@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Hấp ơi!',
-    introDesc: `Oppa biết lỗi rồi ạ
-    Oppa thương hấp lắm á
-    Anh biết hấp cũng thương anh mà
-    Đúng k`,
+    introDesc: `Oppa biết lỗi rồi ạ.
+    Oppa thương hấp lắm á.
+    Anh biết hấp cũng thương anh mà.
+    Đúng k <3`,
     btnIntro: 'Rồi sao',
     title: 'Hấp tha lỗi cho oppa nhá',
     desc: 'Nháaaaaaaaaaaaaaaa ',
